@@ -1,0 +1,15 @@
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\bin\Debug\Расчетное задание.exe.config
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\bin\Debug\Расчетное задание.exe
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\bin\Debug\Расчетное задание.pdb
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное задание.csproj.AssemblyReference.cache
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.MainForm.resources
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.Properties.Resources.resources
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное задание.csproj.GenerateResource.cache
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное задание.csproj.CoreCompileInputs.cache
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное задание.exe
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное задание.pdb
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.PasswordParams.resources
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.FormPassword.resources
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.FormAbout.resources
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.FormResult.resources
+C:\Users\marii\OneDrive\Рабочий стол\Криптография\РЗ\Расчетное задание\obj\Debug\Расчетное_задание.FormPasswordCorrect.resources
